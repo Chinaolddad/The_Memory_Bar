@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/JumpingGameScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
     path: Assets/Scenes/MainMenuScene.unity
     guid: ff8a9f4437704614bb712dfdfa21add6
+  - enabled: 1
+    path: Assets/Scenes/PubScene.unity
+    guid: c867399c8f04340419f24c888cde54da
+  - enabled: 1
+    path: Assets/Scenes/JumpingGameScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
